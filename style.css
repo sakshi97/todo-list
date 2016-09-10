@@ -1,0 +1,12 @@
+.strike{
+	text-decoration: line-through;
+}
+.container{
+	background-color:#E8E8E8;
+	padding:30px;
+}
+.input{
+	padding:5px;
+	margin:10px;
+
+}
